@@ -1,0 +1,34 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.cell:nth-child(3n + 1) {
+  border-left: 3px solid white !important;
+}
+.cell:nth-child(27n + 19) {
+  border-bottom: 3px solid white !important;
+}
+.cell:nth-child(27n + 20) {
+  border-bottom: 3px solid white !important;
+}
+.cell:nth-child(27n + 21) {
+  border-bottom: 3px solid white !important;
+}
+.cell:nth-child(27n + 22) {
+  border-bottom: 3px solid white !important;
+}
+.cell:nth-child(27n + 23) {
+  border-bottom: 3px solid white !important;
+}
+.cell:nth-child(27n + 24) {
+  border-bottom: 3px solid white !important;
+}
+.cell:nth-child(27n + 25) {
+  border-bottom: 3px solid white !important;
+}
+.cell:nth-child(27n + 26) {
+  border-bottom: 3px solid white !important;
+}
+.cell:nth-child(27n + 27) {
+  border-bottom: 3px solid white !important;
+}
